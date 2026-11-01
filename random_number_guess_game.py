@@ -1,6 +1,5 @@
 import random
 num = random.randint(1,50)
-#print(num)
 trial =0
 while(True):
   val = int(input("GUESS THE RANDOM VALUE GENERATED\n"))
